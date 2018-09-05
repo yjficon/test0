@@ -1,0 +1,13 @@
+#nav{
+    position: fixed;
+
+}
+.nav-item{
+    list-style: none;
+    float: left;
+    padding: 0 15px;
+}
+ul>li>a{
+    font-size: 18px;
+    color: #000;
+}
